@@ -1,6 +1,6 @@
 # PacMen
 
-This is 
+Everybody knows Pacman. It is a fun game. In this activity, the main object is to create many pacmen and make them bounce around.
 <img src= "pacmen.png" width= '400'/>
 
 
